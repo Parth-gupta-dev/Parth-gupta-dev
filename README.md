@@ -21,7 +21,7 @@ I'm currently learning programming and exploring the field of Data Analytics.
 - Technology
 - Business and Management
 
-*Learning step by step, building something every day.*## Hi there 👋
+*Learning step by step, building something every day.
 
 <!--
 **Parth-gupta-dev/Parth-gupta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
